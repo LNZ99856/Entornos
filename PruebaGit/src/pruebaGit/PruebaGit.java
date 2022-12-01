@@ -6,6 +6,7 @@ public class PruebaGit {
 
 		System.out.println("Hola mundo GIT");
 		System.out.println("Adios mundo GIT");
+		System.out.println("Hola de nuevo GIT");
 		
 	}
 
